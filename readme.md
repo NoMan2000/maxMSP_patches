@@ -4,10 +4,10 @@ These are max patches to test my music course.  They look like JSON, so I can ac
 
 ##To do list:
 
-> Read Basic Activities of Making Patches.
-> Tips and Shortcuts
-> Tutorial Zero Video
-> Hello -- Creating objects and connections.
-> Bang! - The bang message
-> Numbers and Lists - Types of Data in Max.
++ Read Basic Activities of Making Patches.
++ Tips and Shortcuts
++ Tutorial Zero Video
++ Hello -- Creating objects and connections.
++ Bang! - The bang message
++ Numbers and Lists - Types of Data in Max.
 
